@@ -14,7 +14,7 @@
 
 ```javascript
 const sowjanya = {
-    location: "Monheim am Rhein, Germany 🇩🇪",
+    location: "NRW, Germany 🇩🇪",
     currentRole: "AWS Cloud Engineer (In Training)",
     education: "Digital Career Institute",
     
